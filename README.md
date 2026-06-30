@@ -2,7 +2,7 @@
 
 A full-stack task management application built with FastAPI, Vue 3, and PostgreSQL. Allows users to create, update, and delete tasks with real-time UI updates.
 
-This project was built as part of a Full-Stack Developer Intern technical assessment.
+This project was built as part of an IT Developer Intern technical assessment at PT Global Loyalty Indonesia (Alfagift).
 
 ## Features
 
@@ -433,4 +433,4 @@ This project was created for technical assessment purposes.
 
 ## Author
 
-Built by David Christian Nathaniel as part of a Full-Stack Developer Intern technical assessment.
+Built by David Christian Nathaniel as part of an IT Developer Intern technical assessment at PT Global Loyalty Indonesia (Alfagift).
